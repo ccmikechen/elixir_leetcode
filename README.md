@@ -39,4 +39,5 @@ Average Runtime: 234 μs
 
 ## Problems
 
-[1. Two sum](lib/leet_code/two_sum)
+[1. Two Sum](lib/leet_code/two_sum)
+[2. Add Two Numbers](lib/leet_code/add_two_numbers)
