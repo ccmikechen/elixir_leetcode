@@ -41,3 +41,4 @@ Average Runtime: 234 μs
 
 1. [Two Sum](lib/leet_code/two_sum)
 2. [Add Two Numbers](lib/leet_code/add_two_numbers)
+3. [Longest Substring Without Repeating Characters](lib/leet_code/longest_substring_without_repeating_characters)
